@@ -8,6 +8,6 @@ pip install -r requirements.txt
 ```
 run the script:
 ```bash
-python main.py
+python scraper.py
 ```
 All the notes will be downloaded under `NotesForProfessionals` directory.

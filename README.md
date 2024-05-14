@@ -1,6 +1,5 @@
 # **NotesForProfessionals Downloader**
- A simple script to download all the programming notebooks from [GoalKicker](https://goalkicker.com) website, using python requests, beautifulsoup and multiprocessing to speed up the process.
-
+ A simple script to download all the programming notebooks from [GoalKicker](https://goalkicker.com) website. It uses the `requests` and `beautifulsoup4` libraries to scrape the website and download the notes and uses multithreading to speed up the process.
 ## **Usage**
 install the required packages using the following command:
 ```bash
